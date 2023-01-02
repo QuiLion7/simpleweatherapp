@@ -1,4 +1,4 @@
-const APIKey = 'vzfW60DJRGWjxMQNM8AJP6o7vysybYbZ'
+const APIKey = 'iQtIX5AfsYjNiqYd5JoJ0knCbU2tl0Gp'
 
 const baseUrl = 'https://dataservice.accuweather.com/'
 
